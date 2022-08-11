@@ -1,0 +1,17 @@
+{
+  "name": "todo8-final",
+  "version": "1.0.0",
+  "description": "MINI PROJETO TODO-8 FINAL",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlonalvss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.0.11"
+  }, "type": "module"
+}
